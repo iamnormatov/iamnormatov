@@ -36,3 +36,7 @@ end
     • ⚙️ Programming languages that I commonly use are: .ruby, ruby on rails, .html, .css, .tailwindcss
     • 💬 If you have any queries, just ask me.     
     • 📝 This is my email: azizjonnormatov437@gmail.com   
+<h1 align="center">My Status</h1>
+
+
+[![Aziz's github activity graph](https://activity-graph.herokuapp.com/graph?username=iamnormatov&theme=react-dark)](https://github.com/iamnormatov)
