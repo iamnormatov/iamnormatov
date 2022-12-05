@@ -37,6 +37,9 @@ end
     • 💬 If you have any queries, just ask me.     
     • 📝 This is my email: azizjonnormatov437@gmail.com   
 <h1 align="center">My Status</h1>
+<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=iamnormatov&show_icons=true&theme=radical" >
 
+<img align="left" width="47%" style="height: 156px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnormatov&layout=compact" >
 
 [![Aziz's github activity graph](https://activity-graph.herokuapp.com/graph?username=iamnormatov&theme=react-dark)](https://github.com/iamnormatov)
+v
