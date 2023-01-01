@@ -22,8 +22,8 @@ class BackendDeveloper
     end
 
   me = BackendDeveloper()
-  me.say_hi()
-  
+  me.azzakoo()
+
 end
 ```
 
