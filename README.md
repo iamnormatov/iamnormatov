@@ -1,7 +1,8 @@
 <h1>Hey, nice to see you👋</h1> </hr>
 
-[![Linkedin Badge](https://img.shields.io/badge/-AzizjonNormatov-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azizjon-normatov-b359a0241/)](https://www.linkedin.com/in/azizjon-normatov-b359a0241/)
 [![Telegram Badge](https://img.shields.io/badge/-@iamnormatov-black?style=flat&logo=telegram&logoColor=bluek&link=https://t.me/iamnormatov)](https://t.me/iamnormatov)
+[![Linkedin Badge](https://img.shields.io/badge/-AzizjonNormatov-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azizjon-normatov-b359a0241/)](https://www.linkedin.com/in/azizjon-normatov-b359a0241/)
+
 
 
 ```ruby
