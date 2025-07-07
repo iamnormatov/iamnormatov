@@ -10,7 +10,7 @@
 # -*- coding: utf-8 -*-
 
 
-class BackendDeveloper
+class ManagerClass
 
     def __init__(self)
         self.name = "Azizjon"
