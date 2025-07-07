@@ -14,7 +14,7 @@ class BackendDeveloper
 
     def __init__(self)
         self.name = "Azizjon"
-        self.role = "Backend Developer"
+        self.role = "Sales & Project Manager"
         self.address = ["Tashkent, Uzbekistan"]
     end
     
@@ -22,7 +22,7 @@ class BackendDeveloper
         print("Thanks for dropping by, hope you find some of my work interesting.")
     end
 
-  me = BackendDeveloper()
+  me = Manager()
   me.say_hi()
 
 end
@@ -30,11 +30,10 @@ end
 
  Talking about Personal Stuffs: <br />
 
-    • 👨‍🏛 I'm Azizjon and I'am student at Astrum IT Academy.
-    • 💻 I'm a Backend Developer.   
+    • 👨‍🏛 Hi dear, my name is Azizjon.
+    • 💻 I'm a Sales & Project Manager.   
     • 🌱 Nowadays I'm learning programming and also English.
     • 🤔 My best loved activity is playing football, jogging and reading written works.
-    • ⚙️ Programming languages that I commonly use are: .ruby, ruby on rails, java, .html, .css, .tailwindcss
     • 💬 If you have any queries, just ask me.     
     • 📝 This is my email: azizjonnormatov437@gmail.com   
 <h1 align="center">My Status</h1>
